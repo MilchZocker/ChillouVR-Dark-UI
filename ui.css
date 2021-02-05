@@ -53,7 +53,7 @@ h1 {
 
     background-image: url(background.png);
     background-color: rgba(0, 0, 0, 0.95);
-	background-size: cover;
+	background-size: cover;	
 
     display: flex;
 
@@ -320,6 +320,18 @@ h1 {
     width: 48%;
     padding: 1%;
     height: 58%;
+    left: 26%;
+
+    border-radius: 0.25em;
+    border: 3px solid #FFFFFF;
+}
+
+.content-feed-news {
+    position: absolute;
+    top: 27%;
+    width: 48%;
+    padding: 1%;
+    height: 41%;
     left: 26%;
 
     border-radius: 0.25em;
